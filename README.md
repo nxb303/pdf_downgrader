@@ -5,5 +5,5 @@ Prerequisites: ghostscript (gs) in your PATH
 
 Usage:
 
-`chmod +x ./downgrade_pdf.sh
-./downgrade_pdf.sh document.pdf`
+`chmod +x ./downgrade_pdf.sh`
+`./downgrade_pdf.sh document.pdf`
